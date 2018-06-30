@@ -1,3 +1,7 @@
+## Creator : Ibrahim  - Zorlu 
+## Developer : Ibrahim Zorlu 
+## NickName : ibo
+
 Rsync (Remote Sync): 10 Practical Examples of Rsync Command in Linux
 by Tarunika Shrivastava | Published: September 17, 2013 | Last Updated: August 19, 2016
 
